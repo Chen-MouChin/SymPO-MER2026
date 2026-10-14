@@ -1,7 +1,7 @@
 # SymPO: Consistency by Construction via Permutation Symmetry for Preference Optimization
 
 **MRAC '26 @ ACM Multimedia 2026 — Oral** · November 10–14, 2026 · Rio de Janeiro, Brazil
-[Paper (ACM DL, DOI 10.1145/3840474.3840539)](https://doi.org/10.1145/3840474.3840539) · [Code](https://github.com/xinyou1220/SYMPO)
+Paper: to appear in the ACM Digital Library (DOI `10.1145/3840474.3840539`, active once the proceedings are published) · [Code](https://github.com/xinyou1220/SYMPO)
 
 Meng-Ching Chen\*, Xin-You Song\*, Sheng-Bi Chen\*, Chia-Yen Lee†
 National Yang Ming Chiao Tung University, Hsinchu, Taiwan
