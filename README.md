@@ -1,7 +1,7 @@
 # SymPO: Consistency by Construction via Permutation Symmetry for Preference Optimization
 
 **MRAC '26 @ ACM Multimedia 2026 — Oral** · November 10–14, 2026 · Rio de Janeiro, Brazil
-Paper: to appear in the ACM Digital Library (DOI `10.1145/3840474.3840539`, active once the proceedings are published) · [Code](https://github.com/xinyou1220/MER_2026_TRACK3)
+Paper: to appear in the ACM Digital Library (DOI `10.1145/3840474.3840539`, active once the proceedings are published) · [Code](https://github.com/xinyou1220/MER_2026_TRACK3) · [SymPO algorithm](https://github.com/xinyou1220/SYMPO)
 
 Meng-Ching Chen\*, Xin-You Song\*, Sheng-Bi Chen\*, Chia-Yen Lee†
 National Yang Ming Chiao Tung University, Hsinchu, Taiwan
@@ -33,6 +33,7 @@ Mean ± s.d. over three seeds. The paper's central finding is that the deployed 
 ## Code
 
 - **Training and evaluation code (MER 2026 Track 3):** https://github.com/xinyou1220/MER_2026_TRACK3
+- **SymPO algorithm (model-agnostic, PyTorch):** https://github.com/xinyou1220/SYMPO
   - Quick start: see "Setup" and "Reproducing the results" in its README.
   - Run SymPO: `python scripts/run_experiment.py --experiment sympo --seed 42`
   - Paper table rows and experiment names: the "Baselines and ablations" table in its README.
